@@ -64,10 +64,10 @@ git --version
 ### Step 1: Clone the Repository
 ```bash
 # Clone the project
-git clone https://github.com/yourusername/langlands-ai-explorer.git
+git clone https://github.com/alessoh/AI-Langlands
 
 # Navigate to the project directory
-cd langlands-ai-explorer
+cd AI-Langlands
 ```
 
 ### Step 2: Create a Virtual Environment (Recommended)
@@ -105,7 +105,7 @@ pip install numpy scipy matplotlib pandas scikit-learn torch sympy jupyter tqdm 
 ## Project Structure
 
 ```
-langlands-ai-explorer/
+AI-Langlands
 │
 ├── src/                          # Main source code
 │   ├── __init__.py
@@ -342,11 +342,11 @@ We welcome contributions! Areas for improvement:
 
 If you use this code in research, please cite:
 ```
-@software{langlands_ai_explorer,
-  title = {Langlands AI Explorer},
-  author = {[Your Name]},
-  year = {2024},
-  url = {https://github.com/yourusername/langlands-ai-explorer}
+@software{AI-Langlands,
+  title = {AI-Langlands},
+  author = {[H. Peter Alesso]},
+  year = {2025},
+  url = {https://github.com/alessoh/AI-Langlands}
 }
 ```
 
