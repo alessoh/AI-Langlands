@@ -1,9 +1,6 @@
 # AI-Langlands
 # README.md
 
-```markdown
-# Langlands AI Explorer
-
 **AI and Mathematicians Unite to Unlock the Universe's Hidden Patterns**
 
 A Python implementation demonstrating how artificial intelligence enhances mathematical research in the context of the Langlands Program. Based on the book "The Mathematical Mind in the Age of AI: How Artificial Intelligence is Revolutionizing Pure Mathematics and the Langlands Program."
