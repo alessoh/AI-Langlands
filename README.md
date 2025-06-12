@@ -196,6 +196,24 @@ Our discovery of murmurations provides evidence for these connections, showing t
 
 ## Results and Output
 
+### It uses traditional machine learning techniques:
+Neural Networks (via TensorFlow/Keras) - A simple feedforward network.
+### It learns to predict elliptic curve ranks from Frobenius traces
+Principal Component Analysis (PCA) - For dimensionality visualization
+Statistical Analysis - To discover the murmuration patterns through averaging
+
+### The "AI" in this context refers to:
+Pattern recognition through neural networks
+Unsupervised learning to find structure in data
+Statistical aggregation at scale
+
+### LLMs like GPT-4 or Claude are mentioned in the book as potentially useful for:
+Helping mathematicians explore conjectures
+Translating between formal and informal mathematical language
+Suggesting proof strategies
+
+
+
 ![Alt text](./comprehensive_analysis.png)
 
 
