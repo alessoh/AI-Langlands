@@ -194,6 +194,20 @@ Our discovery of murmurations provides evidence for these connections, showing t
 
 4. **Statistical Analysis**: Add more statistical tests to verify the significance of patterns.
 
+## Results and Output
+
+![Alt text](./comprehensive_analysis.png)
+
+
+![Alt text](./pca_analysis.png)
+
+
+![Alt text](./murmuration_patterns.png)
+
+
+![Alt text](./rank_predictions.png)
+
+
 ## Contributing
 
 We welcome contributions! Areas for expansion:
